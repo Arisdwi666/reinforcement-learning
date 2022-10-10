@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        // "./3-monte-carlo-methods/code",
+        "./4-temporal-difference-methods/code",
+    ]
+}
