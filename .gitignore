@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/log_path/
+log_path/*
+/log_path/*
+./log_path/*
+/reinforcement-learning/PE/log_path
+../log_path
+../log_path/*
