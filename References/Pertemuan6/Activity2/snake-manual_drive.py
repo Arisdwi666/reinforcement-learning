@@ -140,6 +140,9 @@ class SnakeGame:
             
 
 if __name__ == '__main__':
+    from pyvirtualdisplay import Display
+    display = Display(visible=0, size=(1400, 900))
+    display.start()
     game = SnakeGame()
     
     # game loop
